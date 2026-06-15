@@ -47,5 +47,6 @@ streamlit run app.py
 Python, Pandas, Scikit-learn, XGBoost, LightGBM, SHAP, Streamlit
 
 
-👤 Developer
-GitHub: @sel-DS
+## 👤 Developer
+
+**GitHub:** [@sel-DS](https://github.com/sel-DS)  
